@@ -1,0 +1,375 @@
+{
+  "locations": [
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "China",
+          "cities": [
+            {
+              "name": "Hong Kong"
+            },
+            {
+              "name": "Beijing"
+            }
+          ]
+        },
+        {
+          "name": "India",
+          "cities": [
+            {
+              "name": "Mumbai"
+            }
+          ]
+        },
+        {
+          "name": "Indonesia",
+          "cities": [
+            {
+              "name": "East Jakarta"
+            },
+            {
+              "name": "Surabaya"
+            },
+            {
+              "name": "Bekasi"
+            }
+          ]
+        },
+        {
+          "name": "Japan",
+          "cities": [
+            {
+              "name": "Tsushima"
+            },
+            {
+              "name": "Toyota"
+            },
+            {
+              "name": "Fujimino"
+            },
+            {
+              "name": "Yaizu"
+            }
+          ]
+        },
+        {
+          "name": "Thailand",
+          "cities": [
+            {
+              "name": "Bangkok"
+            }
+          ]
+        },
+        {
+          "name": "Israel",
+          "cities": [
+            {
+              "name": "Beersheba"
+            },
+            {
+              "name": "Sderot"
+            },
+            {
+              "name": "Ashdod"
+            }
+          ]
+        },
+        {
+          "name": "Qatar",
+          "cities": [
+            {
+              "name": "Abu Dhalouf"
+            },
+            {
+              "name": "Bu Sidra"
+            }
+          ]
+        },
+        {
+          "name": "Singapore",
+          "cities": [
+            {
+              "name": "Bishan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "south america",
+      "countries": [
+        {
+          "name": "Brazil",
+          "cities": [
+            {
+              "name": "Sao Paulo"
+            }
+          ]
+        },
+        {
+          "name": "Colombia",
+          "cities": [
+            {
+              "name": "La Chorrera"
+            }
+          ]
+        },
+        {
+          "name": "Argentina",
+          "cities": [
+            {
+              "name": "Buenos Aires"
+            },
+            {
+              "name": "Cordoba"
+            },
+            {
+              "name": "Rosario"
+            }
+          ]
+        },
+        {
+          "name": "Chile",
+          "cities": [
+            {
+              "name": "Arica"
+            },
+            {
+              "name": "Iquique"
+            }
+          ]
+        },
+        {
+          "name": "Ecuador",
+          "cities": [
+            {
+              "name": "Guayaquil"
+            },
+            {
+              "name": "Quito"
+            },
+            {
+              "name": "Cuenca"
+            },
+            {
+              "name": "Santo Domingo"
+            },
+            {
+              "name": "Machala"
+            },
+            {
+              "name": "Manta"
+            }
+          ]
+        },
+        {
+          "name": "Paraguay",
+          "cities": [
+            {
+              "name": "San Lorenzo"
+            },
+            {
+              "name": "Luque"
+            }
+          ]
+        },
+        {
+          "name": "Uruguay",
+          "cities": [
+            {
+              "name": "Montevideo"
+            }
+          ]
+        },
+        {
+          "name": "Guyana",
+          "cities": [
+            {
+              "name": "Georgetown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "countries": [
+        {
+          "name": "Nigeria",
+          "cities": [
+            {
+              "name": "Lagos"
+            },
+            {
+              "name": "Kano"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reachedLocations": [
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "China",
+          "cities": [
+            {
+              "name": "Beijing"
+            }
+          ]
+        },
+        {
+          "name": "Indonesia",
+          "cities": [
+            {
+              "name": "East Jakarta"
+            },
+            {
+              "name": "Surabaya"
+            },
+            {
+              "name": "Bekasi"
+            }
+          ]
+        },
+        {
+          "name": "Japan",
+          "cities": [
+            {
+              "name": "Tsushima"
+            },
+            {
+              "name": "Fujimino"
+            }
+          ]
+        },
+        {
+          "name": "Thailand",
+          "cities": [
+            {
+              "name": "Bangkok"
+            }
+          ]
+        },
+        {
+          "name": "Qatar",
+          "cities": [
+            {
+              "name": "Abu Dhalouf"
+            },
+            {
+              "name": "Bu Sidra"
+            }
+          ]
+        },
+        {
+          "name": "Singapore",
+          "cities": [
+            {
+              "name": "Bishan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "south america",
+      "countries": [
+        {
+          "name": "Brazil",
+          "cities": [
+            {
+              "name": "Sao Paulo"
+            }
+          ]
+        },
+        {
+          "name": "Colombia",
+          "cities": [
+            {
+              "name": "La Chorrera"
+            }
+          ]
+        },
+        {
+          "name": "Argentina",
+          "cities": [
+            {
+              "name": "Buenos Aires"
+            },
+            {
+              "name": "Cordoba"
+            },
+            {
+              "name": "Rosario"
+            }
+          ]
+        },
+        {
+          "name": "Chile",
+          "cities": [
+            {
+              "name": "Arica"
+            },
+            {
+              "name": "Iquique"
+            }
+          ]
+        },
+        {
+          "name": "Ecuador",
+          "cities": [
+            {
+              "name": "Guayaquil"
+            },
+            {
+              "name": "Quito"
+            },
+            {
+              "name": "Cuenca"
+            },
+            {
+              "name": "Santo Domingo"
+            },
+            {
+              "name": "Machala"
+            },
+            {
+              "name": "Manta"
+            }
+          ]
+        },
+        {
+          "name": "Paraguay",
+          "cities": [
+            {
+              "name": "San Lorenzo"
+            },
+            {
+              "name": "Luque"
+            }
+          ]
+        },
+        {
+          "name": "Uruguay",
+          "cities": [
+            {
+              "name": "Montevideo"
+            }
+          ]
+        },
+        {
+          "name": "Guyana",
+          "cities": [
+            {
+              "name": "Georgetown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
